@@ -8,7 +8,7 @@ A detailed writeup of instructions and resources used to create Signal, as well 
 projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning
 
 A demonstration of Signal translating ASL to speech can be viewed at:
-youtu.be/9ScPoQZr5_w
+youtu.be/txIMOdQXTC8
 
 **Awards**
 * Toronto Science Fair - Regional Gold
