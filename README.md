@@ -1,0 +1,1 @@
+# Signal-ASL-to-Speech-Translator
