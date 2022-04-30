@@ -33,11 +33,11 @@ The following list contains all sign language phrases that were used to train Si
 
 
 **Awards**
-* [Toronto Science Fair - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medal-recipients#h.lr3yzoszwmvv)
-* [Canada Wide Science Fair - National Silver](https://projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning)
-* Candaa Wide Science Fair - WesternU Scholarship ($2000 Value)
-* [Toronto Science Fair - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-award-recipients#h.c7cz7cmwg68u)
-* [2020 BEST Lab STEM Entreprenurship Expereince - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
+* [Toronto Science Fair 2021 - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medal-recipients#h.lr3yzoszwmvv)
+* [Canada Wide Science Fair 2021 - National Silver](https://projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning)
+* Candaa Wide Science Fair 2021 - WesternU Scholarship ($2000 Value)
+* [Toronto Science Fair 2021 - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-award-recipients#h.c7cz7cmwg68u)
+* [2021 BEST Lab STEM Entreprenurship Expereince - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
 
 **References**
 
