@@ -3,7 +3,7 @@
 **WORK IN PROGRESS:** Signal was created with legacy, outdated libraries and packages that aren't supported by the latest Tensorflow V2. As a result, certain OpenCV libraries such as contrib were rendered unusable. Signal is actively being rewritten and worked on as of May 2022 to fix compatibility issues. 
 
 View a quick demo of Signal:
-youtu.be/txIMOdQXTC8
+youtu.be/txIMOdQXTC8(youtu.be/txIMOdQXTC8)
 
 Signal is a real-time American Sign Language to Speech translation program. It uses a point-of-view camera system to detect and translate sign language phrases to computer generated speech in real time. Signal can support multiple sign langauge words, as well as combinations of words and phrases to create sentences. 
 
