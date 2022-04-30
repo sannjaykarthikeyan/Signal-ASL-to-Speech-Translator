@@ -1,6 +1,6 @@
 # Signal-ASL-to-Speech-Translator
 
-**WORK IN PROGRESS:** Signal was created around Feburary 2021, before Tensorflow V2 was released. As a result, certain OpenCV libraries such as contrib were rendered unusable. Signal is actively being rewritten and worked on as of May 2022 to fix compatibility issues.
+**WORK IN PROGRESS:** Signal was created with legacy, outdated libraries and packages that aren't supported by the latest Tensorflow V2. As a result, certain OpenCV libraries such as contrib were rendered unusable. Signal is actively being rewritten and worked on as of May 2022 to fix compatibility issues.
 
 Signal is a real-time American Sign Language to Speech translation dataset. It uses a point-of-view camera system to detect and translate sign language phrases to computer generated speech in real time. Signal can support multiple sign langauge words, as well as combinations of words and phrases to create sentences. 
 
