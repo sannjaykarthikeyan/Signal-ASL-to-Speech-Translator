@@ -45,13 +45,9 @@ https://github.com/nicknochnack/RealTimeObjectDetection (this project was built 
 
 Brownlee, J. (2019, September 16). A Gentle Introduction to Transfer Learning for Deep Learning. Machine Learning Mastery. https://machinelearningmastery.com/transfer-learning-for-deep-learning/#:~:text=Transfer%20learning%20is%20a%20machine,model%20on%20a%20second%20task.&text=Common%20examples%20of%20transfer%20learning,your%20own%20predictive%20modeling%20problems.
 
-Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/.
+Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/. - **Code from this documentation was used in this project**
 
-**Code from this documentation was used in this project**
-
-Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg.
-
-**The python program from this github repository was used in this project**
+Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg. - **The python program from this github repository was used in this project**
 
 
 
