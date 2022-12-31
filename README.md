@@ -1,6 +1,6 @@
 # Signal-ASL-to-Speech-Translator
 
-ZIP package with all required libraries and dependencies (recommended for trying out signal yourself): 
+ZIP package with all required libraries and dependencies (recommended for trying out signal yourself): [drive.google.com/drive/folders/1w7HDJpjS0hNyxbwjXDygNlcjI5quT2-q?usp=share_link](https://drive.google.com/drive/folders/1w7HDJpjS0hNyxbwjXDygNlcjI5quT2-q?usp=share_link)
 
 View a quick demo of Signal:
 [youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)
