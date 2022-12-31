@@ -39,15 +39,15 @@ The following list contains all sign language phrases that were used to train Si
 * [Toronto Science Fair 2021 - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-award-recipients#h.c7cz7cmwg68u)
 * [2021 BEST Lab STEM Entreprenurship Expereince - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
 
-**References**
+**Credits and References**
 
-https://github.com/nicknochnack/RealTimeObjectDetection - **This project was built upon this github repo**
+https://github.com/nicknochnack/RealTimeObjectDetection - **This project was inspired by and built upon this github repository.**
 
 Brownlee, J. (2019, September 16). A Gentle Introduction to Transfer Learning for Deep Learning. Machine Learning Mastery. https://machinelearningmastery.com/transfer-learning-for-deep-learning/#:~:text=Transfer%20learning%20is%20a%20machine,model%20on%20a%20second%20task.&text=Common%20examples%20of%20transfer%20learning,your%20own%20predictive%20modeling%20problems.
 
-Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/. - **Code from this documentation was used in this project**
+Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/. - **Code from this documentation was used in this project.**
 
-Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg. - **The python program from this github repository was used in this project**
+Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg. - **The python program from this github repository was used in this project.**
 
 
 
