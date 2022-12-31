@@ -1,6 +1,6 @@
 # Signal-ASL-to-Speech-Translator
 
-**WORK IN PROGRESS:** Signal was created with legacy, outdated libraries and packages that aren't supported by the latest Tensorflow V2. As a result, certain OpenCV libraries such as contrib were rendered unusable. Signal is actively being rewritten and worked on as of May 2022 to fix compatibility issues. 
+ZIP package with all required libraries and dependencies (recommended for trying out signal yourself): 
 
 View a quick demo of Signal:
 [youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)
@@ -41,6 +41,8 @@ The following list contains all sign language phrases that were used to train Si
 
 **References**
 
+https://github.com/nicknochnack/RealTimeObjectDetection (this project was built upon this github repo)
+
 Brownlee, J. (2019, September 16). A Gentle Introduction to Transfer Learning for Deep Learning. Machine Learning Mastery. https://machinelearningmastery.com/transfer-learning-for-deep-learning/#:~:text=Transfer%20learning%20is%20a%20machine,model%20on%20a%20second%20task.&text=Common%20examples%20of%20transfer%20learning,your%20own%20predictive%20modeling%20problems.
 
 Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/.
@@ -50,6 +52,8 @@ Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/
 Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg.
 
 **The python program from this github repository was used in this project**
+
+
 
 
 
