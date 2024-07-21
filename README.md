@@ -12,7 +12,7 @@ A detailed writeup of instructions and resources used to create Signal, as well 
 
 Signal was created using the Google Tensorflow Object Detection API, as well as pre-trained models from the Google Tensorflow dataset. Transfer learning was also used in the creation of this project.
 
-**Phrases Supported**
+**Phrases Supported:**
 The following list contains all sign language phrases that were used to train Signal's dataset. These words can be translated seperately, or as a combination to form a phrase or sentence.
 
 * "Hello"
@@ -33,10 +33,10 @@ The following list contains all sign language phrases that were used to train Si
 
 
 **Awards**
-* [Toronto Science Fair 2021 - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medal-recipients#h.lr3yzoszwmvv)
+* [Toronto Science Fair 2021 - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medals)
 * [Canada Wide Science Fair 2021 - National Silver](https://projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning)
 * Canada Wide Science Fair 2021 - WesternU Scholarship ($2000 Value)
-* [Toronto Science Fair 2021 - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-award-recipients#h.c7cz7cmwg68u)
+* [Toronto Science Fair 2021 - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-awards)
 * [2021 BEST Lab STEM Entreprenurship Expereince - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
 
 **Credits and References**
