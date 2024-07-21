@@ -33,21 +33,21 @@ The following list contains all sign language phrases that were used to train Si
 
 
 **Awards**
-* [Toronto Science Fair 2021 - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medals)
-* [Canada Wide Science Fair 2021 - National Silver](https://projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning)
-* Canada Wide Science Fair 2021 - WesternU Scholarship ($2000 Value)
-* [Toronto Science Fair 2021 - Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-awards)
-* [2021 BEST Lab STEM Entreprenurship Expereince - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
+* [Toronto Science Fair - Regional Gold](https://www.torontosciencefair.ca/previous-fairs/2021-gold-medals)
+* [Canada Wide Science Fair - National Silver](https://projectboard.world/ysc/project/real-time-conversion-of-sign-language-to-speech-using-ai-and-deep-learning)
+* [Western University Entrance Scholarship] ($2000 Value)
+* [Sigma Xi Book Award ($150 Value)](https://www.torontosciencefair.ca/previous-fairs/2021-special-awards)
+* [BEST-Lassonde STEM Entrepreneurship Experience at York University - Bronze Finalist](https://www.instagram.com/p/CS9xKT3ra_Q/)
 
 **Credits and References**
 
-https://github.com/nicknochnack/RealTimeObjectDetection - **This project was inspired by and built upon this github repository.**
+https://github.com/nicknochnack/RealTimeObjectDetection
 
-Brownlee, J. (2019, September 16). A Gentle Introduction to Transfer Learning for Deep Learning. Machine Learning Mastery. https://machinelearningmastery.com/transfer-learning-for-deep-learning/#:~:text=Transfer%20learning%20is%20a%20machine,model%20on%20a%20second%20task.&text=Common%20examples%20of%20transfer%20learning,your%20own%20predictive%20modeling%20problems.
+Brownlee, J. (2019, September 16). A Gentle Introduction to Transfer Learning for Deep Learning. Machine Learning Mastery. https://machinelearningmastery.com/transfer-learning-for-deep-learning/#:~:text=Transfer%20learning%20is%20a%20machine,model%20on%20a%20second%20task.&text=Common%20examples%20of%20transfer%20learning,your%20own%20predictive%20modeling%20problems
 
-Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/. - **Code from this documentation was used in this project.**
+Text-to-speech x-platform¶. pyttsx3. (n.d.). https://pyttsx3.readthedocs.io/en/latest/
 
-Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg. - **The python program from this github repository was used in this project.**
+Tzutalin. (n.d.). tzutalin/labelImg. GitHub. https://github.com/tzutalin/labelImg
 
 
 
